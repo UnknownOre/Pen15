@@ -1,5 +1,5 @@
 name: Pen15
-main: UnknownOre\Pen15\Main
+main: UnknownOre\Pen15\Pen15
 version: 1.0
 api: 3.0.0
 load: POSTWORLD
