@@ -1,2 +1,3 @@
 # Pen15
-PocketMine-MP plugin
+a PocketMine-MP plugin that does nothing
+*ABSOLUTELY NOTHING
