@@ -1,6 +1,6 @@
 <?php
 
-namespace Pen15;
+namespace UnknownOre\Pen15;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\Server;
