@@ -23,8 +23,8 @@ Class EventListener implements Listener{
 	 */
     public function onCraft(CraftItemEvent $event){
         $recipe = $event->getRecipe();
-        if($recipe == $this->plugin->recipe){
-            $event->getPlayer()->sendMessage('hello beautiful');
+        if(!$recipe == $this->plugin->recipe){
         }
+	//todo cancel event if he doesnt have perm
     }
 }
